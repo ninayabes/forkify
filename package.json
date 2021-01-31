@@ -1,21 +1,30 @@
 {
   "name": "forkify",
   "version": "1.0.0",
-  "description": "Recipe application",
+  "description": "recipe application",
   "default": "index.html",
-  "scripts": {
-    "start": "parcel index.html",
-    "build": "parcel build index.html --dist-dir ./dist"
-  },
-  "author": "Nina Yabes",
-  "license": "ISC",
-  "devDependencies": {
-    "parcel": "^2.0.0-beta.1",
-    "sass": "^1.26.10"
-  },
   "dependencies": {
     "core-js": "^3.8.3",
     "fractional": "^1.0.0",
+    "img": "^3.0.3",
     "regenerator-runtime": "^0.13.7"
-  }
+  },
+  "devDependencies": {
+    "parcel": "^1.12.4",
+    "sass": "^1.32.5"
+  },
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --out-dir ./dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ninayabes/forkify.git"
+  },
+  "author": "Nina Yabes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ninayabes/forkify/issues"
+  },
+  "homepage": "https://github.com/ninayabes/forkify#readme"
 }
