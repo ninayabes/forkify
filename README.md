@@ -1,6 +1,6 @@
-# forkify Project
+# forkify 
 
-Recipe application with custom recipe uploads.
+https://forkify-recipe-js.netlify.app/
 
 
 
