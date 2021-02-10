@@ -1,6 +1,6 @@
 # forkify 
 
-## [See it live!](https://forkify-recipe-js.netlify.app/)
+## [view site](https://forkify-recipe-js.netlify.app/)
 
 
 
